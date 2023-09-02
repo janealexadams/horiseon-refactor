@@ -1,3 +1,4 @@
+/* This stying is being applied to the whole webpage.  */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Indicating the header text styling style for the navigation items on the right side of the screen.  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Indicating the style for the navigation items on the right side of the screen.  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -74,6 +77,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Indicating the aside element styling. */
 
 .benefits {
     margin-right: 20px;
@@ -191,4 +196,3 @@ footer h2 {
     font-size: 20px;
 }
 
-/* comment */

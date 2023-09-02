@@ -21,8 +21,8 @@ THEN I find a concise, descriptive title
 This website can be used to view Horiseon's marketing services listed below. 
 ![Marketing Services](assets/images/marketing-services.png)
 
-Deployed website is here:
+Deployed website is here: https://janealexadams.github.io/horiseon-refactor/
 
+## Credits
 
-
-
+Existing code was used from the Horiseon website, and is in the indiex.html file. 
